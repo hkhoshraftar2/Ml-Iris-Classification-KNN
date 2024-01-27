@@ -29,8 +29,8 @@ pip install numpy
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/iris-ml.git
-cd iris-ml
+git clone https://github.com/hkhoshraftar2/Ml-Iris-Classification-KNN.git
+cd Ml-Iris-Classification-KNN
 ```
 
 2. Run the Python script:
